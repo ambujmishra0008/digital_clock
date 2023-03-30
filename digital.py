@@ -14,4 +14,4 @@ def clock():
     label.after(500, clock)
 clock()
 window.mainloop()
-print("thank you adarsh ji")
+print("thank you ambuj ji")
